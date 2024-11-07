@@ -1,0 +1,55 @@
+1) Write a program which accepts the user's first and last name and print them in reverse order with 
+a space between them
+Sample:
+Input your First Name : Dany                                       
+Input your Last Name : Boon                                        
+Hello Boon Dany
+
+2) Write a program which accepts the user's first and last name in a single line and print them in
+reverse order with a space between them. Tips: use split() function to separate the string into 2
+Sample:
+Input your Name : Dany Boon                                       
+Hello Boon Dany
+
+3) Write a program to test whether a passed letter is a vowel(a, e, i, o, u) or not.
+Sample:
+input: v  output: false
+input: e  output: true
+
+4) Write a program to calculate body mass index(BMI)
+
+5) Write a program to calculate the largest number among 3 numbers.
+
+6) Write a program to calculate the student getting the highest marks among 3 students.
+Sample:
+Input first student: Amy 85
+Input second student: Dan 76
+Input third student: Ben 97
+Highest mark: Ben
+
+7) Write a program to check if a number is positive, negative or zero.
+
+8) Write a program to round a floating-point number to specified number decimal places. Tips: Use round() function
+Sample:
+Input number to round: 212.374
+Input number of decimal places to round: 2
+Output: 212.37
+
+9) Write a program to check whether a number is divisible by another number.
+Sample:
+input: 20 5  output: True
+input: 20 3  output: False
+
+10) Write a program that accepts six numbers as input and sorts them in descending order. Tips: Use sort() function
+Sample:
+Input six integers: 15 30 25 14 35 40
+After sorting the said integers: 40 35 30 25 15 14
+
+11) Write a program that take 2 inputs from user and return result whether:
+a. two numbers are equal
+b. number 1 is greater than number 2
+c. number 1 is smaller than number 2
+
+12) Accept three numbers from the user and display the second largest number.
+
+
