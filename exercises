@@ -85,5 +85,14 @@ average_height = [53.2, 54.5, 76.8, 75.8, 53.2, 53.2, 76.8, 78.1, 78.1, 54.5, 75
 
 19) Write a program to check whether the last digit of a number (entered by user) is divisible by 5 or not.
 
+20) Write a program that takes an integer input score (ranging from 0 to 100) and returns the corresponding letter grade based on the following grading scheme:
+80-100: Grade A
+70-79: Grade B
+60-69: Grade C
+50-59: Grade D
+40-49: Grade E
+0-39: Grade F
+
+
 
 
