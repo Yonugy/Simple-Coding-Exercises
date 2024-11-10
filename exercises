@@ -93,6 +93,14 @@ average_height = [53.2, 54.5, 76.8, 75.8, 53.2, 53.2, 76.8, 78.1, 78.1, 54.5, 75
 40-49: Grade E
 0-39: Grade F
 
+21) Write a program that determines the cardinal direction based on the given angle. The angle represents the degrees on a compass, where:
+0 to 45 degrees: North
+46 to 135 degrees: East
+136 to 225 degrees: South
+226 to 315 degrees: West
+316 to 360 degrees: North
+If the input angle is outside the range of 0 to 360 degrees, print "Invalid".
+
 
 
 
