@@ -17,11 +17,11 @@ input: v  output: false
 input: e  output: true
 
 4) Write a program to check whether a person is overweight or not by calculating their BMI value.
-#Formula for BMI: weight (in kg) / height (in m)**2, use weight divide height (in m) square
-#Less than 18.4 - underweight
-#18.5 to 24.9 - normal weight
-#25 to 29.9 - overweight
-#30 to 34.9 - obesity
+Formula for BMI: weight (in kg) / height (in m)**2, use weight divide height (in m) square
+Less than 18.4 - underweight
+18.5 to 24.9 - normal weight
+25 to 29.9 - overweight
+30 to 34.9 - obesity
 
 5) Write a program to calculate the largest number among 3 numbers.
 
@@ -65,23 +65,23 @@ Hint: the new list cannot contain duplicate value, you can use list.append() - a
 average_height = [53.2, 54.5, 76.8, 75.8, 53.2, 53.2, 76.8, 78.1, 78.1, 54.5, 75.5, 53.2, 53.2, 76.8, 75.8]
 
 15) Write a Python function that takes a number as a parameter and check the number is prime or not, print out True or False
-#Prime number is a natural number greater than 1 and no divisors other than 1 and itself
-#E.g 2, 3, 5, 7, 11, 13
-#All even number is not a prime number as it can be divided by 2
-#9 is not the prime number as it can be divided by 3
+Prime number is a natural number greater than 1 and no divisors other than 1 and itself
+E.g 2, 3, 5, 7, 11, 13
+All even number is not a prime number as it can be divided by 2
+9 is not the prime number as it can be divided by 3
 
 16) Write a Python function to checks whether a string is a palindrome or not
-#Palindrome is refers to the word, phrase, or sequence that reads the same backward as forward.
-#E.g. madam, kakak, level, kayak, refer
+Palindrome is refers to the word, phrase, or sequence that reads the same backward as forward.
+E.g. madam, kakak, level, kayak, refer
 
 17) Write a program to display "Hello" if a number entered by user is a multiple of five.
-#if number entered is an even number, print "Nice to meet you"
-#if number entered is a odd number, print "See you later"
+if number entered is an even number, print "Nice to meet you"
+if number entered is a odd number, print "See you later"
 
 18) Write a program to calculate the electricity bill (take input of unit from user) according to the following criteria:
-#First 100 units, price per unit: no charge
-#Next 100 units, price per unit: Rm 2.10 per unit
-#More than 200 units, price per unit: Rm 2.80 per unit
+First 100 units, price per unit: no charge
+Next 100 units, price per unit: Rm 2.10 per unit
+More than 200 units, price per unit: Rm 2.80 per unit
 
 19) Write a program to check whether the last digit of a number (entered by user) is divisible by 5 or not.
 
