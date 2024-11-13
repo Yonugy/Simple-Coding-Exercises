@@ -101,6 +101,8 @@ More than 200 units, price per unit: Rm 2.80 per unit
 316 to 360 degrees: North
 If the input angle is outside the range of 0 to 360 degrees, print "Invalid".
 
+22) Write a program that prompts the user for a number n and prints the first n terms of the Fibonacci sequence.
+
 
 
 
