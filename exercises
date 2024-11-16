@@ -75,6 +75,7 @@ Palindrome is refers to the word, phrase, or sequence that reads the same backwa
 E.g. madam, kakak, level, kayak, refer
 
 17) Write a program to display "Hello" if a number entered by user is a multiple of five.
+If number entered is a multiple of five:
 if number entered is an even number, print "Nice to meet you"
 if number entered is a odd number, print "See you later"
 
