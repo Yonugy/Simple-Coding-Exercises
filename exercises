@@ -1,12 +1,10 @@
-1) Write a program which accepts the user's first and last name and print them in reverse order with 
-a space between them
+1) Write a program which accepts the user's first and last name and print them in reverse order with a space between them.
 Sample:
 Input your First Name : Dany                                       
 Input your Last Name : Boon                                        
 Hello Boon Dany
 
-2) Write a program which accepts the user's first and last name in a single line and print them in
-reverse order with a space between them. Tips: use split() function to separate the string into 2
+2) Write a program which accepts the user's first and last name in a single line and print them in reverse order with a space between them. Tips: use split() function to separate the string into 2.
 Sample:
 Input your Name : Dany Boon                                       
 Hello Boon Dany
@@ -57,14 +55,14 @@ c. number 1 is smaller than number 2
 
 12) Accept three numbers from the user and display the second largest number.
 
-13) 2. Write a Python function to sum all the score in the given list as below
+13) Write a Python function to sum all the score in the given list as below
 student_marks = [58, 65, 89, 73, 72, 80, 76]
 
 14) Write a Python function that takes the list below and returns a new list with unique elements of the first list
 Hint: the new list cannot contain duplicate value, you can use list.append() - add item to the end of the list
 average_height = [53.2, 54.5, 76.8, 75.8, 53.2, 53.2, 76.8, 78.1, 78.1, 54.5, 75.5, 53.2, 53.2, 76.8, 75.8]
 
-15) Write a Python function that takes a number as a parameter and check the number is prime or not, print out True or False
+15) Write a Python function that takes a number as a parameter and check the number is prime or not, print out True or False.
 Prime number is a natural number greater than 1 and no divisors other than 1 and itself
 E.g 2, 3, 5, 7, 11, 13
 All even number is not a prime number as it can be divided by 2
