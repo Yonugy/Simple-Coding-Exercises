@@ -4,3 +4,8 @@ Create a Python program that acts as a continuous calculator. The program should
 3. Allow the user to continue using the result for further calculations by inputting another operator and number without inserting the first number.
 4. Stop the calculation loop and display an error message if an invalid operator is entered.
 5. Handle division by zero by displaying an appropriate error message and allowing the user to retry.
+
+6. Use GUI to display the process of the calculator. Example GUI modules: EasyGUI, Tkinter
+
+7. Use Tkinter to simulate a real calculator with a text box and 19 buttons (0-9 numbers, + - * / operators, = equal, +/- positive/negative, clear, backspace, decimal point)
+8. Add calculation history feature
