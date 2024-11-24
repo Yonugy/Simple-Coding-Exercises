@@ -21,7 +21,7 @@ Write a program to test whether a passed letter is a vowel(a, e, i, o, u).
 
 ## Question 4
 Write a program to check whether a person is overweight or not by calculating their BMI value.
-<br>Formula for BMI: weight (in kg) / height (in m)**2, use weight divided height (in m) square
+<br>Formula for BMI: weight (in kg) / height (in m)**2, use weight divided by height (in m) square
 <br>Less than 18.4 - underweight
 <br>18.5 to 24.9 - normal weight
 <br>25 to 29.9 - overweight
@@ -29,4 +29,13 @@ Write a program to check whether a person is overweight or not by calculating th
 
 ## Question 5
 Write a program to calculate the largest number among 3 numbers.
+
+## Question 6
+Write a program to calculate the student getting the highest marks among 3 students.
+<br>Sample:
+<br>Input first student: Amy 85
+<br>Input second student: Dan 76
+<br>Input third student: Ben 97
+<br>Highest mark: Ben
+
 
