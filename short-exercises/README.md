@@ -27,3 +27,6 @@ Write a program to check whether a person is overweight or not by calculating th
 <br>25 to 29.9 - overweight
 <br>30 to 34.9 - obesity
 
+## Question 5
+Write a program to calculate the largest number among 3 numbers.
+
