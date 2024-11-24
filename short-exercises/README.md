@@ -19,3 +19,11 @@ Write a program to test whether a passed letter is a vowel(a, e, i, o, u).
 <br>input: v  ;output: false
 <br>input: e  ;output: true
 
+## Question 4
+Write a program to check whether a person is overweight or not by calculating their BMI value.
+<br>Formula for BMI: weight (in kg) / height (in m)**2, use weight divided height (in m) square
+<br>Less than 18.4 - underweight
+<br>18.5 to 24.9 - normal weight
+<br>25 to 29.9 - overweight
+<br>30 to 34.9 - obesity
+
