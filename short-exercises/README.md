@@ -13,3 +13,9 @@ Write a program that accepts the user's first and last name in a single line and
 <br>Input your Name: Dany Boon                                       
 Hello Boon Dany
 
+## Question 3
+Write a program to test whether a passed letter is a vowel(a, e, i, o, u).
+<br>Sample:
+<br>input: v  ;output: false
+<br>input: e  ;output: true
+
