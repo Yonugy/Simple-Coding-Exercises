@@ -47,5 +47,11 @@ Write a program to calculate the student getting the highest marks among 3 stude
 ## Question 7
 Write a program to check if a number is positive, negative, or zero.
 
+## Question 8
+Write a program to round a floating-point number to specified number decimal places. Tips: Use round() function
+<br>Sample:
+<br>Input number to round: 212.374
+<br>Input number of decimal places to round: 2
+<br>Output: 212.37
 
 
