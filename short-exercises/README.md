@@ -54,4 +54,10 @@ Write a program to round a floating-point number to specified number decimal pla
 <br>Input number of decimal places to round: 2
 <br>Output: 212.37
 
+## Question 9
+Write a program to check whether a number is divisible by another number.
+<br>Sample:
+<br>input: 20 5  ;output: True
+<br>input: 20 3  ;output: False
+
 
