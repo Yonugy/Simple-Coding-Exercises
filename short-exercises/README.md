@@ -96,5 +96,11 @@ Write a Python function to checks whether a string is a palindrome or not
 <br>Palindrome is refers to the word, phrase, or sequence that reads the same backward as forward.
 <br>E.g. madam, kakak, level, kayak, refer
 
+## Question 17
+Write a program to display "Hello" if a number entered by user is a multiple of five.
+<br>If number entered is a multiple of five:
+<br>If number entered is an even number, print "Nice to meet you".
+<br>If number entered is a odd number, print "See you later".
+
 
 
