@@ -60,4 +60,10 @@ Write a program to check whether a number is divisible by another number.
 <br>input: 20 5  ;output: True
 <br>input: 20 3  ;output: False
 
+## Question 10
+Write a program that accepts six numbers as input and sorts them in descending order. Tips: Use sort() function
+<br>Sample:
+<br>Input six integers: 15 30 25 14 35 40
+<br>After sorting the said integers: 40 35 30 25 15 14
+
 
