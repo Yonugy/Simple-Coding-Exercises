@@ -91,5 +91,10 @@ Write a Python function that takes a number as a parameter and check the number 
 <br>All even number is not a prime number as it can be divided by 2.
 <br>9 is not the prime number as it can be divided by 3.
 
+## Question 16
+Write a Python function to checks whether a string is a palindrome or not
+<br>Palindrome is refers to the word, phrase, or sequence that reads the same backward as forward.
+<br>E.g. madam, kakak, level, kayak, refer
+
 
 
