@@ -75,5 +75,9 @@ Write a program that take 2 inputs from user and return result whether:
 ## Question 12
 Accept three numbers from the user and display the second largest number.
 
+## Question 13
+Write a Python function to sum all the score in the given list as below.
+<br>student_marks = [58, 65, 89, 73, 72, 80, 76]
+
 
 
