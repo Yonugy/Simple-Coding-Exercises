@@ -102,5 +102,11 @@ Write a program to display "Hello" if a number entered by user is a multiple of 
 <br>If number entered is an even number, print "Nice to meet you".
 <br>If number entered is a odd number, print "See you later".
 
+## Question 18
+Write a program to calculate the electricity bill (take input of unit from user) according to the following criteria:
+<br>First 100 units, price per unit: no charge
+<br>Next 100 units, price per unit: RM2.10 per unit
+<br>More than 200 units, price per unit: RM2.80 per unit
+
 
 
