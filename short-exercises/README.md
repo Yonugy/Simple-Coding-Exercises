@@ -84,5 +84,12 @@ Write a Python function that takes the list below and returns a new list with un
 <br>Hint: the new list cannot contain duplicate value, you can use list.append() to add item to the end of the list
 <br>average_height = [53.2, 54.5, 76.8, 75.8, 53.2, 53.2, 76.8, 78.1, 78.1, 54.5, 75.5, 53.2, 53.2, 76.8, 75.8]
 
+## Question 15
+Write a Python function that takes a number as a parameter and check the number is prime or not, print out True or False.
+<br>Prime number is a natural number greater than 1 and no divisors other than 1 and itself.
+<br>E.g 2, 3, 5, 7, 11, 13
+<br>All even number is not a prime number as it can be divided by 2.
+<br>9 is not the prime number as it can be divided by 3.
+
 
 
