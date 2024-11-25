@@ -20,7 +20,7 @@ Write a program that accepts the user's first and last name in a single line and
 Hello Boon Dany
 
 ## Question 3
-Write a program to test whether a passed letter is a vowel(a, e, i, o, u).
+Write a program to test whether a passed letter is a vowel (a, e, i, o, u).
 <br>Sample:
 <br>input: v  ;output: false
 <br>input: e  ;output: true
@@ -71,5 +71,9 @@ Write a program that take 2 inputs from user and return result whether:
 <br>a. two numbers are equal
 <br>b. number 1 is greater than number 2
 <br>c. number 1 is smaller than number 2
+
+## Question 12
+Accept three numbers from the user and display the second largest number.
+
 
 
