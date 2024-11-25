@@ -79,5 +79,10 @@ Accept three numbers from the user and display the second largest number.
 Write a Python function to sum all the score in the given list as below.
 <br>student_marks = [58, 65, 89, 73, 72, 80, 76]
 
+## Question 14
+Write a Python function that takes the list below and returns a new list with unique elements of the first list
+<br>Hint: the new list cannot contain duplicate value, you can use list.append() to add item to the end of the list
+<br>average_height = [53.2, 54.5, 76.8, 75.8, 53.2, 53.2, 76.8, 78.1, 78.1, 54.5, 75.5, 53.2, 53.2, 76.8, 75.8]
+
 
 
