@@ -66,4 +66,10 @@ Write a program that accepts six numbers as input and sorts them in descending o
 <br>Input six integers: 15 30 25 14 35 40
 <br>After sorting the said integers: 40 35 30 25 15 14
 
+## Question 11
+Write a program that take 2 inputs from user and return result whether:
+<br>a. two numbers are equal
+<br>b. number 1 is greater than number 2
+<br>c. number 1 is smaller than number 2
+
 
