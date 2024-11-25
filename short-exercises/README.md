@@ -38,4 +38,8 @@ Write a program to calculate the student getting the highest marks among 3 stude
 <br>Input third student: Ben 97
 <br>Highest mark: Ben
 
+## Question 7
+Write a program to check if a number is positive, negative, or zero.
+
+
 
