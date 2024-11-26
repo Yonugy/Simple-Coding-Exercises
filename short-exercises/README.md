@@ -4,6 +4,24 @@
 [Question 2](#question-2)
 [Question 3](#question-3)
 [Question 4](#question-4)
+[Question 5](#question-5)
+[Question 6](#question-6)
+[Question 7](#question-7)
+[Question 8](#question-8)
+[Question 9](#question-9)
+[Question 10](#question-10)
+[Question 11](#question-11)
+[Question 12](#question-12)
+[Question 13](#question-13)
+[Question 14](#question-14)
+[Question 15](#question-15)
+[Question 16](#question-16)
+[Question 17](#question-17)
+[Question 18](#question-18)
+[Question 19](#question-19)
+[Question 20](#question-20)
+[Question 21](#question-21)
+[Question 22](#question-22)
 
 ## Question 1
 Write a program that accepts the user's first and last name and prints them in reverse order with a space between them.
@@ -119,6 +137,18 @@ Write a program that takes an integer input score (ranging from 0 to 100) and re
 <br>50-59: Grade D
 <br>40-49: Grade E
 <br>0-39: Grade F
+
+## Question 21
+Write a program that determines the cardinal direction based on the given angle. The angle represents the degrees on a compass, where:
+<br>0 to 45 degrees: North
+<br>46 to 135 degrees: East
+<br>136 to 225 degrees: South
+<br>226 to 315 degrees: West
+<br>316 to 360 degrees: North
+<br>If the input angle is outside the range of 0 to 360 degrees, print "Invalid".
+
+## Question 22
+Write a program that prompts the user for a number n and prints the first n terms of the Fibonacci sequence.
 
 
 
