@@ -111,6 +111,15 @@ Write a program to calculate the electricity bill (take input of unit from user)
 ## Question 19
 Write a program to check whether the last digit of a number (entered by user) is divisible by 5 or not.
 
+## Question 20
+Write a program that takes an integer input score (ranging from 0 to 100) and returns the corresponding letter grade based on the following grading scheme:
+<br>80-100: Grade A
+<br>70-79: Grade B
+<br>60-69: Grade C
+<br>50-59: Grade D
+<br>40-49: Grade E
+<br>0-39: Grade F
+
 
 
 
