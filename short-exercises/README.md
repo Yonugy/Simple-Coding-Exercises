@@ -108,5 +108,9 @@ Write a program to calculate the electricity bill (take input of unit from user)
 <br>Next 100 units, price per unit: RM2.10 per unit
 <br>More than 200 units, price per unit: RM2.80 per unit
 
+## Question 19
+Write a program to check whether the last digit of a number (entered by user) is divisible by 5 or not.
+
+
 
 
