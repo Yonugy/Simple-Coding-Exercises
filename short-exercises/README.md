@@ -120,6 +120,15 @@ Write a program that takes an integer input score (ranging from 0 to 100) and re
 <br>40-49: Grade E
 <br>0-39: Grade F
 
+## Question 21
+Write a program that determines the cardinal direction based on the given angle. The angle represents the degrees on a compass, where:
+<br>0 to 45 degrees: North
+<br>46 to 135 degrees: East
+<br>136 to 225 degrees: South
+<br>226 to 315 degrees: West
+<br>316 to 360 degrees: North
+<br>If the input angle is outside the range of 0 to 360 degrees, print "Invalid".
+
 
 
 
