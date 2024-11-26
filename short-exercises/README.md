@@ -129,6 +129,9 @@ Write a program that determines the cardinal direction based on the given angle.
 <br>316 to 360 degrees: North
 <br>If the input angle is outside the range of 0 to 360 degrees, print "Invalid".
 
+## Question 22
+Write a program that prompts the user for a number n and prints the first n terms of the Fibonacci sequence.
+
 
 
 
