@@ -1,3 +1,4 @@
+# Calculator Exercise
 Level 1
 Step 1: Prompt the user to input 2 numbers.
 Step 2: Display the sum of the first and second numbers.
