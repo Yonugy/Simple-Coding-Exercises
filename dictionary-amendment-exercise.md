@@ -23,12 +23,12 @@ Add validation to every process:
 
 ## Advanced
 ### Step 6
-Enhance the student info dictionary into a nested dictionary to store info of multiple students (use the student's name or ID as key for each student).
+Enhance the student info dictionary into a nested dictionary to store the info of multiple students (use the student's name or ID as key for each student).
 
 ### Step 7
 Create a txt file to store the student info dictionary.
-Sample of text file:
-ID, Name, Age, Major, CGPA, Email, Phone
-101, John, 20, Computer Science, 3.8, alice.johnson@example.com, 0123456789
-102, Darren, 22, Mechanical Engineering, 3.5, bob.smith@example.com, 0198765432
-103, Ian, 19, Mathematics, 3.9, charlie.brown@example.com, 0156473829
+<br>Sample of text file:
+<br>ID, Name, Age, Major, CGPA, Email, Phone
+<br>101, John, 20, Computer Science, 3.8, alice.johnson@example.com, 0123456789
+<br>102, Darren, 22, Mechanical Engineering, 3.5, bob.smith@example.com, 0198765432
+<br>103, Ian, 19, Mathematics, 3.9, charlie.brown@example.com, 0156473829
