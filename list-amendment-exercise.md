@@ -1,4 +1,4 @@
-# List amendment exercise
+# List Amendment Exercise
 
 ### Step 1
 Create a student name list.
