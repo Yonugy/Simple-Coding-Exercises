@@ -4,9 +4,9 @@ There are 2 types of coding exercises
 - Wider range project based question
 
 ## Short problem solving question
-- Browse the **exercises** file to view all questions I gather
+- Browse the **short-exercises** folder to view all questions
 - Focuses more on conditional questions
 
 ## Wider range project based question
-- Each project are stored in one file
-- Have more range of enhancements and upgrades can be added
+- Each project is stored in one file
+- Have more range of enhancements and upgrades that can be added
